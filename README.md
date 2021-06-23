@@ -6,4 +6,4 @@ June 23, 2021:
 Learning recan: 
     A tool Phil introduced to me for generating window aligner data in Python. 
     software repository: https://github.com/babinyurii/recan
-    
+Idea for this prototyping of software will be to attemt the program with a subset of CYP2D6 duplicon sequences. After getting sequence identiy window data, I will also prototype plotting in R.
